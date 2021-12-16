@@ -1,0 +1,7 @@
+Item:
+  Naam: "Lock Pick"
+  Material: STICK
+Settings:
+  Title: "&6&lLock picking... &e&l"
+  LockPickSeconds: 5
+  Chance: 60
